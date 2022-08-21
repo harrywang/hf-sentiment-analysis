@@ -1,0 +1,5 @@
+pandas
+torch==1.11.0
+transformers
+python-dotenv
+sendgrid

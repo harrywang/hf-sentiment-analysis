@@ -1,0 +1,16 @@
+INFO: 08/21/2022 07:48:50 data loaded
+INFO: 08/21/2022 07:49:07 model loaded
+INFO: 08/21/2022 07:49:21 saved to csv at 100 iteration
+INFO: 08/21/2022 07:49:35 saved to csv at 200 iteration
+INFO: 08/21/2022 07:49:50 saved to csv at 300 iteration
+INFO: 08/21/2022 07:50:06 saved to csv at 400 iteration
+INFO: 08/21/2022 07:50:21 saved to csv at 500 iteration
+INFO: 08/21/2022 07:50:21 final save to csv at 500 iteration
+INFO: 08/21/2022 07:51:04 data loaded
+INFO: 08/21/2022 07:51:20 model loaded
+INFO: 08/21/2022 07:51:36 saved to csv at 100 iteration
+INFO: 08/21/2022 07:51:51 saved to csv at 200 iteration
+INFO: 08/21/2022 07:52:07 saved to csv at 300 iteration
+INFO: 08/21/2022 07:52:22 saved to csv at 400 iteration
+INFO: 08/21/2022 07:52:36 saved to csv at 500 iteration
+INFO: 08/21/2022 07:52:36 final save to csv at 500 iteration
